@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @WidyZz
 - 👀 I’m interested in programming itself
-- 🌱 I’m currently learning C#, CSS and JavaScript
+- 🌱 I’m currently coding in C#, CSS, JavaScript and SQL
 - 💞️ I’m looking to collaborate on anything fun
 - 📫 How to reach me - my email : vitchvoj@gmail.com or discord : Widy#9211
